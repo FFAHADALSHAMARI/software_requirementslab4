@@ -43,3 +43,19 @@ then after running the transformation, a file generated "libraryms.xml" as seen 
 
 <img width="876" alt="last" src="https://github.com/FFAHADALSHAMARI/software_requirementslab4/assets/148696097/0c3db6c8-a343-454e-a31b-aa2e8af281a4">
 
+
+
+
+TASK 2:
+
+
+i have started by installing the plugins of Acceleo and followed the steps of the tutorial. i understood the concepts of this lab which was about creating an acceleo module that generates java beans from a UML model. but because of the lack of time to research and to solve the errors i could not finish it and stopped while doing it. below is some screenshots of the things i have done.
+
+<img width="796" alt="Generating java beans" src="https://github.com/FFAHADALSHAMARI/software_requirementslab4/assets/148696097/8f0848ec-56f1-44fd-8dc8-79bd25bc03a5">
+
+
+<img width="1301" alt="acceleotask2" src="https://github.com/FFAHADALSHAMARI/software_requirementslab4/assets/148696097/641e8c54-e330-4f2b-907a-6c58fda08057">
+
+<img width="1036" alt="last step reached" src="https://github.com/FFAHADALSHAMARI/software_requirementslab4/assets/148696097/bbf1880d-e5f0-4de6-a1d2-366535e1c28d">
+
+
