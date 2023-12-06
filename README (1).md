@@ -7,7 +7,8 @@ This task was about transforming from one list to another, from the source to th
 
 as shown in the image below first, we created the chosen system, EMF Ecore model (Basic library management system).
 
-<img width="1180" alt="EMF Ecore model for a basic library management system" src="https://github.com/FFAHADALSHAMARI/software_requirementslab4/assets/148696097/d76a7752-b3dd-4aff-a119-f1b6161ea8d0">
+<img width="596" alt="library ecore" src="https://github.com/FFAHADALSHAMARI/software_requirementslab4/assets/148696097/f64f62b6-8eee-44d6-959b-b3d889cd2e99">
+
 
 
 And then, as shown below, we have created another library EMF Ecore system model.
@@ -18,23 +19,27 @@ we create a new ATL file to put the code into.
 here we have written the OCL Helper definition for the library management system
 
 
-<img width="454" alt="my helpers" src="https://github.com/FFAHADALSHAMARI/software_requirementslab4/assets/148696097/88398dbc-8b0a-4841-83d3-6e0d63a834db">
+<img width="442" alt="helpers" src="https://github.com/FFAHADALSHAMARI/software_requirementslab4/assets/148696097/f0eb12f7-ece2-4ce9-b321-9517b0c0e38c">
+
 
 
 The task required two ATL rules which were created in the image below
 
-<img width="308" alt="my RULES" src="https://github.com/FFAHADALSHAMARI/software_requirementslab4/assets/148696097/975fdc0e-e73d-442a-a3a4-619458bd893f">
+
+<img width="272" alt="my rules" src="https://github.com/FFAHADALSHAMARI/software_requirementslab4/assets/148696097/feed88a3-d8c4-450c-81d6-7ebb48baaef4">
 
 
 
 After doing the above the transformation was ready to be used with the model file as seen below the ATL Module transformation model
 
-<img width="476" alt="ATL" src="https://github.com/FFAHADALSHAMARI/software_requirementslab4/assets/148696097/114e5f79-4b85-4ca5-84ed-c62b7edabe30">
+<img width="1270" alt="xmi that will transer the data " src="https://github.com/FFAHADALSHAMARI/software_requirementslab4/assets/148696097/635aa41b-7e13-4bad-9a32-408ab332b01d">
 
-<img width="508" alt="file to run the atl" src="https://github.com/FFAHADALSHAMARI/software_requirementslab4/assets/148696097/9bef7744-2cd3-4d4b-9605-4d202b0422f6">
+<img width="306" alt="created xmi" src="https://github.com/FFAHADALSHAMARI/software_requirementslab4/assets/148696097/175cfba9-0d86-48db-a4f1-ccacfbfa813c">
+
 
 
 then after running the transformation, a file generated "libraryms.xml" as seen below 
 
 
-<img width="836" alt="last step of part 1" src="https://github.com/FFAHADALSHAMARI/software_requirementslab4/assets/148696097/e6225e6e-b11f-4339-a48c-f6b546c05769">
+<img width="876" alt="last" src="https://github.com/FFAHADALSHAMARI/software_requirementslab4/assets/148696097/0c3db6c8-a343-454e-a31b-aa2e8af281a4">
+
